@@ -1,13 +1,5 @@
 ## Hi👋, I'm Ravindu Yehan.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Scar1389&label=Profile%20views&color=0e75b6&style=flat" alt="Scar1389" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/3KX0H7F.png" width="600" alt="Tech Art">
-</p>
-
 ---
 
 - 🔭 I’m currently studing at University Of Sri Jayewardenepura ...
