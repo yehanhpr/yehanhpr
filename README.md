@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently studing at University Of Sri Jayewardenepura ...
 - 🌱 I’m currently learning ...
+- 📫 How to reach me yeshravi1@gmail.com
 
 
-- <h3 align="center">My Statistics:</h3>
+<h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
