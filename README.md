@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ravindu-yehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
 <a href="https://fb.com/H P Ravindu Yehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="50" width="50" /></a>
-  <a href="mailto:yeshravi1@gmail.com" target="blank">< <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Gmail.svg" alt="Gmail" width="50" height="50"/>
+  <a href="mailto:yeshravi1@gmail.com" target="blank">< <img src="https://www.vecteezy.com/png/16716465-gmail-png-icon" alt="Gmail" width="50" height="50"/>
  /></a>
 </p>
 
