@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-## Hi👋, I'm Ravindu Yehan.
+<h1 align="center" color="nlue"> Hi👋, I'm Ravindu Yehan.</h1>
 
 - 🔭 I’m currently studing at University Of Sri Jayewardenepura ...
 - 🌱 I’m currently learning ...
@@ -31,8 +31,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ravindu-yehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
 <a href="https://fb.com/H P Ravindu Yehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="50" width="50" /></a>
-  <a href="mailto:yeshravi1@gmail.com" target="blank">< <img src="https://www.vecteezy.com/png/16716465-gmail-png-icon" alt="Gmail" width="50" height="50"/>
- /></a>
+  
 </p>
 
 ---
