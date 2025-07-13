@@ -3,6 +3,8 @@
 
 <h1 align="center" color="nlue"> Hi👋, I'm Ravindu Yehan.</h1>
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yehanhpr&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindu Yehan" /> </p>
+
 - 🔭 I’m currently studing at University Of Sri Jayewardenepura ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me yeshravi1@gmail.com
@@ -44,5 +46,4 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
->>>>>>> e4c5ec915bfb4264d933d59a08be1fb637682237
 
